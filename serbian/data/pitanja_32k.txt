@@ -1,0 +1,60 @@
+321.Lego kocke su nastale u:
+a.Engleskoj
+b.Norveskoj
+c.Danskoj
+d.Nemackoj
+c
+322.Ako pozovete 93, pozvali ste:
+a.Policiju
+b.Hitnu pomoc
+c.Vatrogasce
+d.Nepostojeci broj
+c
+323.Planeta koja je najudaljenija od Sunca je:
+a.Merkur
+b.Mars
+c.Jupiter
+d.Pluton
+d
+324.Radnja drame "Romeo i Julija" odigrava se u kom gradu?
+a.Veroni
+b.Veneciji
+c.Pragu
+d.Bernu
+a
+325.USB prevedeno znaci:
+a.Magistrala za serijski prenos
+b.Magistrala za paralelni prenos
+c.Magistrala za serijsko-paralelni prenos
+d.Univerzalna magistrala
+a
+326.PC je skracenica od:
+a.Privatni klijent
+b.Personalni racunar
+c.Poljoprivredni katalog
+d.Personalni katalog
+b
+327.Koja godina je MCMXIV:
+a.1915
+b.1914
+c.1950
+d.2000
+b
+328.Koliko cifara ima JMBG?
+a.15
+b.11
+c.13
+d.12
+c
+329.Kako se u praistoriji zovu kucice na stubovima u vodi:
+a.Vodenice
+b.Sojenice
+c.Plutenice
+d.Zemunice
+b
+329.Jedinica za magnetnu indukciju B je:
+a.Henri
+b.Tesla
+c.Veber
+d.Dzul
+b

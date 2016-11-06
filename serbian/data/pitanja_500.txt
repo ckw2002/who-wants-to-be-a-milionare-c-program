@@ -1,0 +1,72 @@
+309.Sta vredi hiljadu reci:
+a.Video snimak
+b.Slika
+c.Muzika
+d.Igrica
+b
+310. C++ je:
+a.Programski jezik
+b.Konstanta
+c.Hemijski simbol
+d.Oznaka u fizici
+a
+311. Koja od navedenih kompanija ne proizvodi fotoaparate?
+a.Sony
+b.Nokia
+c.Canon
+d.Nikon
+b
+312. Valuta u Svajcerskoj je:
+a.EUR
+b.RUB
+c.CHF
+d.USD
+c
+313.Izvor vrele podzemne vode zove se:
+a.Vezir
+b.Vodoskok
+c.Mlaz
+d.Gejzir
+d
+314.Samsonova snaga bila je u njegovoj:
+a.Vilici
+b.Nozi
+c.Kosi
+d.Ruci
+c
+315.Kombinacija grafike, teksta, animacija, muzike i videa zove se?
+a.Kompozicija
+b.Spektar
+c.Multimedija
+d.Programiranje
+c
+316.Girara ima:
+a.Pet zica
+b.Sest zica
+c.Sedam zica
+d.Cetiri zica
+b
+317.Vrednost pi je:
+a.3,014
+b.3,12
+c.3,14
+d.3,15
+c
+318.Kristofer Kolumbo je otrkio koji kontinent?
+a.Aziju
+b.Ameriku
+c.Evropu
+d.Afriku
+b
+319.Oznaka za Ozon je:
+a.H2
+b.C2
+c.O3
+d.O2
+c
+308.Gracanicu je podigao:
+a.Kralj Stefan Milutin
+b.Dusan Silni
+c.Stefan Prvovencani
+d.Stefan Nemanja
+a
